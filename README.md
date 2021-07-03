@@ -25,3 +25,10 @@
     <b><a href="https://t.me/i4m_Lawa">Telegram</a></b>
 </samp><br>
 </p>
+
+<p align="left">
+  <samp>
+    i4m_Lawa:
+    <b><a href="https://www.tiktok.com/@i4m_lawa5">TikTok</a></b>
+</samp><br>
+</p>
