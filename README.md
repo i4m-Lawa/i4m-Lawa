@@ -5,7 +5,7 @@
 </samp><br>
 </p>
 
-<p align="center">
+<p align="left">
   <samp>
     i4m_Lawa:
     <b><a href="https://www.youtube.com/channel/UCEhQ2zk99Or7vOZ3nBjj7Jg">YouTube</a></b>
